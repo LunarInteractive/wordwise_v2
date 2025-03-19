@@ -1,0 +1,35 @@
+<Level>
+
+	<MainDialog>
+		<Character>Ana</Character>
+		<Question Translate="Apa kabar?">How Are You?</Question>
+		<OptionA Translate="Saya Baik, Terima Kasih" Action="1">I'm Fine Thank You</OptionA>
+		<OptionB Translate="Saya Baik" Action="2">I'm Good</OptionB>
+		<OptionC Translate="Lagi Sakit Euy" Action="3">Not Feeling Well</OptionC>
+	</MainDialog>
+	
+	<Dialog1>
+		<Character>Ana</Character>
+		<Question Translate="Mau Kopi?">You Fine? Cool. Wanna Coffe?</Question>
+		<OptionA Translate="Ya" Action="-1">Yes</OptionA>
+		<OptionB Translate="Tidak" Action="0">No</OptionB>
+		<OptionC Translate="Mungkin" Action="0">I'm not feeling well</OptionC>
+	</Dialog1>
+
+	<Dialog2>
+		<Character>Ana</Character>
+		<Question Translate="Mau teh?">You Good? Cool. Wanna Tea?</Question>
+		<OptionA Translate="Ya" Action="-1">Yes</OptionA>
+		<OptionB Translate="Tidak" Action="0">No</OptionB>
+		<OptionC Translate="Mungkin" Action="0">Maybe</OptionC>
+	</Dialog2>
+
+	<Dialog3>
+		<Character>Ana</Character>
+		<Question Translate="Butuh obat?">Not Feeling Well? Too Bad. Wanna Medicine?</Question>
+		<OptionA Translate="Ya" Action="-1">Yes</OptionA>
+		<OptionB Translate="Tidak" Action="0">No</OptionB>
+		<OptionC Translate="Mungkin" Action="0">Maybe</OptionC>
+	</Dialog3>
+	
+</Level>

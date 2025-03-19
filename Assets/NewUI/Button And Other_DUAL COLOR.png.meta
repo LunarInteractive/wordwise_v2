@@ -1,0 +1,5059 @@
+fileFormatVersion: 2
+guid: 8d1dc0a82e74a8f4cb24eefb22eeed95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2078
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9876afd07ee3c4fb39b633b34010ea
+      internalID: -360665874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2078
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca99599f7d535684189c9824f52dabe4
+      internalID: 2026365641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2078
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4869e39c0e36d459aebf67a346bb19
+      internalID: 2081645123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2078
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416083ec0bbd33e4f94f11e5a9cbc5ba
+      internalID: 1155691109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2061
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 140, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894d6648d089d946b34ab56ed29b01e
+      internalID: 110085764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_5
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2060
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 140, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2175322f9b5d0e845a098762777011d3
+      internalID: -62090851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_6
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2060
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 140, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66011a5d326acde4a99951fedd7c39ab
+      internalID: 1156198730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_7
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2080
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 30, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7ac1d996826d48a29883042cce2ee
+      internalID: 1690007230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_8
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2080
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1fed4fcb5c12c489a54194ef1f0ab8
+      internalID: -1666479695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_9
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2080
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c2c3cf5b61104c899db0584959f67
+      internalID: -96853956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_10
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 2080
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ad45f343faa549afc43750f1b99a7
+      internalID: -1629534151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_11
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2060
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef5d48156a443489c23bd1c21e1406
+      internalID: 1826773090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_12
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2060
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5edcbb07da5c54b9375d25fdd7121f
+      internalID: 1268323773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_13
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2060
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab310519992c6548840f3dd04f0f761
+      internalID: 41583376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1848
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9cde7785e4c214face35285ccf402b
+      internalID: 2027603955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1848
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59fe85bc378cc4481e74a474c6596a
+      internalID: 1189263553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1848
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b88d43fccc86842bd348230db88395
+      internalID: 1899766014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1848
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82a28023635d34cbb60b1ebfe9c611
+      internalID: 1928995956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_18
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1859
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2140e069ec4ac642a3b65f7adebc5ce
+      internalID: -1595401498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_19
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1859
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd901be7b47bb841a7262e2bbf9a7d2
+      internalID: -870196531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_20
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1867
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2906ea0f99fb4e8ee169f8a9035d4
+      internalID: -1343105212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_21
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1867
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0da8c6781f34f41b957acb091f963d
+      internalID: -431254100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_22
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1810
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 140, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebbabade40dfa447802f0eab2989271
+      internalID: -959285111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_23
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1850
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573aaf4e785574e4ab482cac97690b48
+      internalID: 1393056653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_24
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 1848
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987400f2bcaf25f45a70d65c972fe2ab
+      internalID: 712902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_25
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1848
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075e5c3c70178f4c98bb5c64f39c136
+      internalID: -1742304233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_26
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1848
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499030e3a18c974dbd3843cd45484c9
+      internalID: -1664308982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_27
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1859
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190866ab7df232b4691974be25878da5
+      internalID: -355484074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_28
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 1859
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65895f2cdcc62034586d382f5158aa07
+      internalID: 2073725919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_29
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 1870
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95aa46d0b04ef4d909586cba10aaeb
+      internalID: -912899162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_30
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1867
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf73a08921a6b4295e6807f04a127f
+      internalID: 889538270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_31
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 1810
+        width: 490
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 90, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6daf6e4a5dc3ae429293ce706a54faf
+      internalID: -2046445525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1618
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3caf2d533315e84ebe271b71f2a5ae9
+      internalID: -928241449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1618
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7666e34d049f45a71355cd9b922aa
+      internalID: -1015874683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1618
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a735c06f59daa742a63841a2aa61ef3
+      internalID: -1101619733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_35
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1618
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249da5facd002aa488d87069f8ef2082
+      internalID: 398130433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_36
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1678
+        width: 114
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb00d2ac2f3e9479875b4b8ea2b773
+      internalID: -239028551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_37
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1678
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aabe6214f3af124f8e882374d22d146
+      internalID: 1227613107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_38
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1708
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dae58e66a544d4e9729648f1bd63c3
+      internalID: -260175400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_39
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1708
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca882577a0e8d4d95a9a84e31d66a9
+      internalID: -191878796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1570
+        width: 660
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 30, z: 100, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea434184a7bb5b4283be16b160141b1
+      internalID: -709820064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_41
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1620
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687546f8125ec154dbd7784d23d69c3a
+      internalID: 363654068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_42
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 1618
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73639cf42824c7a45a474e8bb326eaef
+      internalID: -1431741717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_43
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1620
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987e5b76fbf785478187805041cd399
+      internalID: -1347138179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_44
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1618
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c217a4728b38d44f9741ecab5736682
+      internalID: -1221020832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_45
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1678
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbd2882ac9f0947bf439a40a3af365
+      internalID: -937088526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_46
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1678
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0a9a2acba08c448c1859cdba561bf
+      internalID: 172820729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_47
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1708
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d7510573d60ca41a6545111dc4f0c4
+      internalID: 204412673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_48
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 1709
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439514ddce30ed47a90898526bf21a4
+      internalID: -383481507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_49
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1570
+        width: 660
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 30, z: 100, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115905e575743342beb0a1a7f2660c7
+      internalID: -765208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1389
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d9f2390ecf4a46a8a997b2ceddf7a
+      internalID: 951332800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1389
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a3c064714447c42be84b23c7d0fc97
+      internalID: -1219231411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1390
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4361dcb88fa63b349b4c129a26ca5c01
+      internalID: 1715061491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_53
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1389
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9799cbea89c44282bcc55395cec3d
+      internalID: -1453804018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_54
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1537
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44bde8028f824459748c4cc37811de
+      internalID: 688390846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_55
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1548
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6322b2195eb72b418d4da34897d9a6e
+      internalID: 956617487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_56
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1537
+        width: 25
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1da23ce07b1e3498e4bf686ed0c6c3
+      internalID: 1876706294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_57
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1526
+        width: 25
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637b0c0d99b76f429c1bd6abd59939d
+      internalID: -988084966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_58
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1537
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820444b7102dfa5489a7801e82c4f5bf
+      internalID: 1483148321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_59
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1548
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ffa034cbe47534ba449419ee71dbd7
+      internalID: 1654690529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_60
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1537
+        width: 24
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7538ebffa093f4449fe9ab4f9208b22
+      internalID: 804328519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_61
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1526
+        width: 24
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03a78e727f49f4ca90c377c6ce01c9
+      internalID: 404334206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_62
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1567
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933667e8cce3c6b4eb02d54c13ab8e73
+      internalID: -1417807330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_63
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1567
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec169d1da1fb58644ad80edb6a22d630
+      internalID: 2002872158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_64
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1390
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934897c21a096504a80032b73ff8e5b7
+      internalID: -1411371627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_65
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 1389
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68722c06548b2488a9f7ec7ea0efbb
+      internalID: -1322447665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_66
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1390
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4ec96048410742ac85e1d19e93939
+      internalID: -849841037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_67
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1390
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984520407d86caa46bfdb639343cb427
+      internalID: 440368735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_68
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1537
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e932c2f4bd6e7e489e096f5f39aa710
+      internalID: -1419352325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_69
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 1548
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5e94c91310cb4ebdb93af8c652c36
+      internalID: 2136233077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_70
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 1537
+        width: 24
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdb107f2ec87644b749785da7a150e
+      internalID: -1263053709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_71
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1526
+        width: 27
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2c1442ef04f34681338fc091cd08c
+      internalID: 310384079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_72
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 1537
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d737ea021574c4086f705fed3fddc8
+      internalID: 819699978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_73
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1548
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838339daee2ad443b63e9f37795f18d
+      internalID: -459503643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_74
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 1537
+        width: 24
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55111b7a3ec0d4142a5a872700fee30e
+      internalID: 1530451208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_75
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1526
+        width: 25
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12da0794a291f942b9b532f92b2af5e
+      internalID: -95921291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_76
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 1567
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2971906c16c464ab7ae931561652ba
+      internalID: -2101037278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_77
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 1567
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51921bf8fbb444b94f5b5967566343
+      internalID: -657649783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_78
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1526
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b504cddf0d36f41bc7576c2a4d781b
+      internalID: 7668064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_79
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1526
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dffce838fb9fd4a905d614bd93d4a8
+      internalID: 1978997282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_80
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1337
+        width: 664
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720868fc873cc84fa46de5256404460
+      internalID: 1606067715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_81
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 1526
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f62ab486e50da6449ccf68b3bde5895
+      internalID: -1300774469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_82
+      rect:
+        serializedVersion: 2
+        x: 4218
+        y: 1526
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6072fccecc036ac4a8c7ea1129a9b035
+      internalID: 958492482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_83
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1340
+        width: 660
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 30, z: 100, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e463f9baec8a498eda5092b752585
+      internalID: -849343634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1159
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72df2c928d7a0574b853a15b648b9b41
+      internalID: 1162458266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1159
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a705ade75dc14429ef73af55f2803c
+      internalID: 1970219371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1159
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017df7004507d54582f556c2907f9f1
+      internalID: -891380952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_87
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1159
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0fa8c85c5a964ea825d4d0ad42b73
+      internalID: 488045922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_88
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1359
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6224d9f9e29f6b439a608c80b1c4ae9
+      internalID: -1311749078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_89
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1359
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57667e0194c93469d5ee6c22aece4e
+      internalID: -454072004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_90
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1378
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5964fc3d76fd247af8f44781c4ccc1
+      internalID: -1963609679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_91
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1378
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa202973556d57242b955874425f84ba
+      internalID: -1009692488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_92
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1159
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a047f27902b4439e65585b8e220d7
+      internalID: 391754433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_93
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 1159
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4594bd6d6b3effc449740ed147f22ba2
+      internalID: 35916594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_94
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1159
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016866dfcfacba4e8b491e53f8ba80f
+      internalID: -44679224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_95
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1159
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c64219400e64842998ea12fc89de02
+      internalID: -1748520696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_96
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1359
+        width: 106
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b599e8ef9def14ead04005835a9970
+      internalID: -1206065730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_97
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1359
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f4810dffa40649b46cb61464f8311
+      internalID: -2145154882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_98
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1378
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad627e08851d6649a31ba98d1d36e9d
+      internalID: 1388719920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_99
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1378
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158d5676fe16d140823506e1fbf03b2
+      internalID: -1371333486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_100
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1218
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a61cb8b140009428a19cfe43ecd37c
+      internalID: -248699432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_101
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1218
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848a913405e69349bc4f9db0c7c952d
+      internalID: 1874806654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_102
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1218
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3a73d5fe55cc478b60288e893045e
+      internalID: -344082832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_103
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1267
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb4e28c5d2920428635f800ca4b2d4
+      internalID: -951669968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_104
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1218
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cef2e406179d41bae10b48707ef62
+      internalID: -625238848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_105
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1267
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441d38ac06ef8bf4cbb09d300aae6201
+      internalID: -113196040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_106
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1108
+        width: 664
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e7de882263b941b44fd44db9dd069
+      internalID: -1481134842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_107
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1218
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619a10794445864591eb21748c22602
+      internalID: 617018066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_108
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1218
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89be5cff471c554b832cc6101d76d57
+      internalID: 1883498012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_109
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1218
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2b8bce03a52c40bc6b927e5258379
+      internalID: -1696714195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_110
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1267
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c7cb94ea23be42a9fe222fbc3268e
+      internalID: 2099613534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_111
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1218
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe606466d509b245bd3949cb25f0a59
+      internalID: -707813398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_112
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1267
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e3622b6466734590ee7e94fe878f0
+      internalID: -102140856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_113
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1110
+        width: 660
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0a2e246a881d149b7595f8e445f511
+      internalID: 1753794235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 927
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64cb800aac9634e98e7604388fb788
+      internalID: -1111371793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_115
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 927
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f1229e0a86d742bdaebdb0654a5f3
+      internalID: 539016343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_116
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 927
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c80526cacda04593a795e8a66102c
+      internalID: -1869347091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_117
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 927
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1e524c105e50408e25cd5e8288604
+      internalID: -1630479606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_118
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1059
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44566928577dd464c9a95c1e13d54e50
+      internalID: -588585108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_119
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1059
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56565a1e1382ac44bb4743e5668a40e
+      internalID: 1523774464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_120
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1048
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee185901a7541bb49a03fc2d6c0eb337
+      internalID: -1611888489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_121
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1048
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227954837cb3a5743a53891a115fbf1a
+      internalID: -735582173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_122
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 878
+        width: 664
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0e184964b65540ae8409d4534c12d
+      internalID: -200430540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_123
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 927
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d2a3850dc9bb45b7b2ff336c8d2e3
+      internalID: -1620031130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_124
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 927
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f277dbc54accc4194e2a36160a27cb
+      internalID: 979764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_125
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 930
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc6a46a4e71ae449c57ce81cdf5b04
+      internalID: -879753219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_126
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 927
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c1681fd55d124b9c8ab68737a9ab6
+      internalID: -1322276218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_127
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1059
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea26f1d0843d348b7c15843ce4f138
+      internalID: 407745733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_128
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1059
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13837d94e2bed04fb9dd9e38e21e0f1
+      internalID: 356531814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_129
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1048
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc73bdf11ccee4687f50e44def589e
+      internalID: 1681351073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_130
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1048
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b796c4df63ea5444a0015d409f042f3
+      internalID: 1537251071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_131
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 878
+        width: 665
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989eb51a0e9d034586f66966345afe6
+      internalID: -519565637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_132
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 978
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25acb3ebcfc2b74c8de8123cd4e66f0
+      internalID: -2077882835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_133
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 978
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6f5456b926cd40b3dc4e89b93024d
+      internalID: -1568482514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_134
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 889
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8690452db88a41a4e828211ec8ba4c2a
+      internalID: -362615591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_135
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 889
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdb3ffa33b67947b62e1085aa2a2aa
+      internalID: 393123096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_136
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 978
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfed0c3b0efd24469353e541563e8ca
+      internalID: -1960208154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_137
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 978
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36989d32a6d24ae41983497b8764e5fa
+      internalID: 118431040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_138
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 889
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9d8308d8caf443965e3152566086b
+      internalID: -1605417174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_139
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 889
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e7e8d31c20d94aabe0a368e37da2b
+      internalID: -1909462755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_140
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 938
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434e9b2bf8c02a4b97b1986ddc3cb39
+      internalID: 1029583342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_141
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 938
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c0bd0856f5ae478792383c3b8bc39
+      internalID: -198693036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_142
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 938
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aef02900ecf95438ffc97482d4ac4d
+      internalID: 1326464726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_143
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 938
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbbcaa054223c64e8429d4be85f6765
+      internalID: -2032056941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 697
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1744665aa5ced44eb9df4ccde69cdea
+      internalID: -524470153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_145
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 697
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cfc755b48507743a86a96ae97dbdeb
+      internalID: -407209775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_146
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 697
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f217fd5015f15f4a8d21398d72c3e17
+      internalID: -2044290644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_147
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 697
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350b22cddb1c9941bec7631bf874a9c
+      internalID: -970714525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_148
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 897
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e230d27bcf41478f3cc645205d587
+      internalID: 958231126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_149
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 897
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bcb8c6b1fa3df4bb1070a75a96ef44
+      internalID: 1758593541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_150
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 697
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a7010a378b5b4294daf9c8a6f5623
+      internalID: 730824229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_151
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 697
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f467ec47adc844ca18fcf7c7075b5c
+      internalID: 1714463956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_152
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 700
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd578ffcffcdee140ab065a36237d360
+      internalID: 60198246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_153
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 697
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaeecb9a6c4aa1458671ee095dcc7f3
+      internalID: -1305440120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_154
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 897
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c031c8eac830e459250e6927332da3
+      internalID: 1464382013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_155
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 897
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a361a0faa87749b4bf82ace10a584
+      internalID: 677497765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_156
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 727
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280cb95f08ade347a8644ec8732dd88
+      internalID: -1506324351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_157
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 727
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950cc75d32d1ba4da14dffd86355536
+      internalID: -1809085036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_158
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 727
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e27aa665387b84cad574ec988c5c0f
+      internalID: -1141284596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_159
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 727
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e53f96ec4414c743a149140df6d96ad
+      internalID: 1613825793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_160
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 727
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa28887f5f40e3041a63fc1b1459764b
+      internalID: 1355979395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_161
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 727
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ac21c6cb5c1847b044c524b1754cf
+      internalID: 635319285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_162
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 667
+        width: 646
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c588499069c78594494f11d4375d3d7a
+      internalID: 1675842653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_163
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 727
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4471e638caed9449f694bb23bdc634
+      internalID: 7878041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_164
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 727
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3d292750a05e42ae3553532e73ad6
+      internalID: 1678280896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_165
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 727
+        width: 36
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64795bcc5f20cb0449245d3a4ae1c5db
+      internalID: -1191578357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_166
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 727
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfe4d9352da1442b252a50a4d3165f
+      internalID: -1444584300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_167
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 727
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5b3cc94a4622c41a33502ad27a3dd2
+      internalID: -47594739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_168
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 727
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a428a1b757f8544288e317eb025022b
+      internalID: -1139494146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_169
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 667
+        width: 645
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e88127ad9c73944a71774aeb5f00dd
+      internalID: 1192124623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 467
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eea08b087b89d740b7a08f1536ccf91
+      internalID: 1339237015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_171
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 467
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20140cc6f705c0442bdac16f083ea595
+      internalID: 1729329655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_172
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 467
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea663c4fd5f14e4ca2d39342914704d
+      internalID: -935245864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_173
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 467
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd888ea8577704c923e7801e3e7a8c
+      internalID: -1055348836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_174
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 578
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deedc1e0ec193114f9ce6857f05f5a82
+      internalID: 654006203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_175
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 638
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da26c675ecf464996b9b936495f58d
+      internalID: 554564190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_176
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 578
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884d46948d1eea459352307aa1e8f4e
+      internalID: 2046236771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_177
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 638
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cab246917a9d241af5abc8f60c2cff
+      internalID: -1722539372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_178
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 438
+        width: 646
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5391bb846f84c4e8306e28f2e651d0
+      internalID: 82942805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_179
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 470
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1009b3345f8d81740b44d1e206952dbf
+      internalID: 2094967528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_180
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 467
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669bab2ec28a6b43961b1d4028230bf
+      internalID: 1307628240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_181
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 470
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f5102c73c2ee49a979ffa5612ab00
+      internalID: 48937144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_182
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 470
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118b1d9318b5c549bd7f2cb0d571f31
+      internalID: 267988568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_183
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 578
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5790240e180404748abbeaba9018c9cc
+      internalID: 1109325233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_184
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 638
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149c11bfa1fe4a4f91e99475fb5ec48
+      internalID: 1926465870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_185
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 578
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed555152ba62f0f41afe3fed729e31e2
+      internalID: 1257610799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_186
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 638
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee7e57f66e5544788ef0e67f6631eb
+      internalID: -476798105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_187
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 438
+        width: 645
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a66587b295477428fae238f4f7819f
+      internalID: 328623795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_188
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 238
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6429b37758b87c3498737982e1670387
+      internalID: 78110416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_189
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675cfa4b5361164a8f9c52ce23e5e89
+      internalID: -1380512239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_190
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 240
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b0a35fea321b4c9630f7fbd6b6533
+      internalID: -167376645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_192
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 419
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4245f587928a2b14e91d1ceb756f791c
+      internalID: 118635724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_193
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 419
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257cecf4384840141978ac3def035ea6
+      internalID: -483759286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_194
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 238
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b9c9d2256865a4aa8268de235d2588
+      internalID: -475855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_195
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 238
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db034b987568f4d81945b12b9c5210
+      internalID: -238326885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_196
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 240
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8c305198f245458d8be2a70e54b92
+      internalID: 1663049720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_197
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 240
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6812b2451b6294d94d3c1d8a5d93b8
+      internalID: 1597186310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_198
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 419
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104fee6da79a4df4784c9d156b3e93b3
+      internalID: -431943766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_199
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 419
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a68190b939a740ae13e1de2206087
+      internalID: -1023439222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_200
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 257
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f634a0fc9c66db44ab8af5f0c09e2c1
+      internalID: -818849399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_201
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 257
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888bdc2f07a3a574dae415c96af7d645
+      internalID: -1941017033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_202
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 257
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b69f00782f3f2458cfaf1f23a61777
+      internalID: -574826189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_203
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 257
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba1abbe72f6ec4580f8a06a86d027a
+      internalID: 352364172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_204
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168f8f7c274d6e4899ba17262f13bd5
+      internalID: -1763921472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_205
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4632e251811e04ca1036f4da9b5b36
+      internalID: -801606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_206
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ea29cf9efea344846e58bacd6d35c
+      internalID: -837971235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_207
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 8
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66ace0543b5644fac0b0f63c1340a3
+      internalID: -292620560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_208
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 97
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8efb557ac6e174985c0d8c2dee0236
+      internalID: -2112812232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_209
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 97
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183705d67b4047459795eb1c7488f4c
+      internalID: 641811889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_210
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 8
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c48ea99e0745e4d8550d15b225442b
+      internalID: -497399522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_211
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 8
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79745f049b90e74c8fd9fc139fe1076
+      internalID: -36410135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_212
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 10
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798a35256bb6004fa0983a8a800b80b
+      internalID: 1214926571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_213
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 10
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc1b5941e0b77449520f6a86f91d12
+      internalID: -48670344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_214
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 97
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03373b584421e5449558ba15863cdb9
+      internalID: -17970982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_215
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 97
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12377ab5c9d65be4fa88e4679a42cbd1
+      internalID: 351527427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_191
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e1ff8710a805459d263c577f7d949
+      internalID: 928945069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_216
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948698225eeeb1344b01bd676c4165ce
+      internalID: 513197074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_217
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a84464e4eaf64c4aa8565a98fa89e23
+      internalID: 1503518576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_218
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1810
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c48a6d347370c40b138ab6c8d2b22b
+      internalID: -130763373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_219
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1810
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f60a1941ed00e40af773ef9231f5fe
+      internalID: 742647043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_220
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0f40ecc370e54fbca635ca5b2b127
+      internalID: -1940164254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_221
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2c57599deb2348a24127a32e79702
+      internalID: -1064170921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button And Other_DUAL COLOR_222
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 2060
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd404ab9e21157a41aabd256d0d9a364
+      internalID: 98643983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e3710cb0ae91124890e0aebc714200e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Button And Other_DUAL COLOR_0: -360665874
+      Button And Other_DUAL COLOR_1: 2026365641
+      Button And Other_DUAL COLOR_10: -1629534151
+      Button And Other_DUAL COLOR_100: -248699432
+      Button And Other_DUAL COLOR_101: 1874806654
+      Button And Other_DUAL COLOR_102: -344082832
+      Button And Other_DUAL COLOR_103: -951669968
+      Button And Other_DUAL COLOR_104: -625238848
+      Button And Other_DUAL COLOR_105: -113196040
+      Button And Other_DUAL COLOR_106: -1481134842
+      Button And Other_DUAL COLOR_107: 617018066
+      Button And Other_DUAL COLOR_108: 1883498012
+      Button And Other_DUAL COLOR_109: -1696714195
+      Button And Other_DUAL COLOR_11: 1826773090
+      Button And Other_DUAL COLOR_110: 2099613534
+      Button And Other_DUAL COLOR_111: -707813398
+      Button And Other_DUAL COLOR_112: -102140856
+      Button And Other_DUAL COLOR_113: 1753794235
+      Button And Other_DUAL COLOR_114: -1111371793
+      Button And Other_DUAL COLOR_115: 539016343
+      Button And Other_DUAL COLOR_116: -1869347091
+      Button And Other_DUAL COLOR_117: -1630479606
+      Button And Other_DUAL COLOR_118: -588585108
+      Button And Other_DUAL COLOR_119: 1523774464
+      Button And Other_DUAL COLOR_12: 1268323773
+      Button And Other_DUAL COLOR_120: -1611888489
+      Button And Other_DUAL COLOR_121: -735582173
+      Button And Other_DUAL COLOR_122: -200430540
+      Button And Other_DUAL COLOR_123: -1620031130
+      Button And Other_DUAL COLOR_124: 979764
+      Button And Other_DUAL COLOR_125: -879753219
+      Button And Other_DUAL COLOR_126: -1322276218
+      Button And Other_DUAL COLOR_127: 407745733
+      Button And Other_DUAL COLOR_128: 356531814
+      Button And Other_DUAL COLOR_129: 1681351073
+      Button And Other_DUAL COLOR_13: 41583376
+      Button And Other_DUAL COLOR_130: 1537251071
+      Button And Other_DUAL COLOR_131: -519565637
+      Button And Other_DUAL COLOR_132: -2077882835
+      Button And Other_DUAL COLOR_133: -1568482514
+      Button And Other_DUAL COLOR_134: -362615591
+      Button And Other_DUAL COLOR_135: 393123096
+      Button And Other_DUAL COLOR_136: -1960208154
+      Button And Other_DUAL COLOR_137: 118431040
+      Button And Other_DUAL COLOR_138: -1605417174
+      Button And Other_DUAL COLOR_139: -1909462755
+      Button And Other_DUAL COLOR_14: 2027603955
+      Button And Other_DUAL COLOR_140: 1029583342
+      Button And Other_DUAL COLOR_141: -198693036
+      Button And Other_DUAL COLOR_142: 1326464726
+      Button And Other_DUAL COLOR_143: -2032056941
+      Button And Other_DUAL COLOR_144: -524470153
+      Button And Other_DUAL COLOR_145: -407209775
+      Button And Other_DUAL COLOR_146: -2044290644
+      Button And Other_DUAL COLOR_147: -970714525
+      Button And Other_DUAL COLOR_148: 958231126
+      Button And Other_DUAL COLOR_149: 1758593541
+      Button And Other_DUAL COLOR_15: 1189263553
+      Button And Other_DUAL COLOR_150: 730824229
+      Button And Other_DUAL COLOR_151: 1714463956
+      Button And Other_DUAL COLOR_152: 60198246
+      Button And Other_DUAL COLOR_153: -1305440120
+      Button And Other_DUAL COLOR_154: 1464382013
+      Button And Other_DUAL COLOR_155: 677497765
+      Button And Other_DUAL COLOR_156: -1506324351
+      Button And Other_DUAL COLOR_157: -1809085036
+      Button And Other_DUAL COLOR_158: -1141284596
+      Button And Other_DUAL COLOR_159: 1613825793
+      Button And Other_DUAL COLOR_16: 1899766014
+      Button And Other_DUAL COLOR_160: 1355979395
+      Button And Other_DUAL COLOR_161: 635319285
+      Button And Other_DUAL COLOR_162: 1675842653
+      Button And Other_DUAL COLOR_163: 7878041
+      Button And Other_DUAL COLOR_164: 1678280896
+      Button And Other_DUAL COLOR_165: -1191578357
+      Button And Other_DUAL COLOR_166: -1444584300
+      Button And Other_DUAL COLOR_167: -47594739
+      Button And Other_DUAL COLOR_168: -1139494146
+      Button And Other_DUAL COLOR_169: 1192124623
+      Button And Other_DUAL COLOR_17: 1928995956
+      Button And Other_DUAL COLOR_170: 1339237015
+      Button And Other_DUAL COLOR_171: 1729329655
+      Button And Other_DUAL COLOR_172: -935245864
+      Button And Other_DUAL COLOR_173: -1055348836
+      Button And Other_DUAL COLOR_174: 654006203
+      Button And Other_DUAL COLOR_175: 554564190
+      Button And Other_DUAL COLOR_176: 2046236771
+      Button And Other_DUAL COLOR_177: -1722539372
+      Button And Other_DUAL COLOR_178: 82942805
+      Button And Other_DUAL COLOR_179: 2094967528
+      Button And Other_DUAL COLOR_18: -1595401498
+      Button And Other_DUAL COLOR_180: 1307628240
+      Button And Other_DUAL COLOR_181: 48937144
+      Button And Other_DUAL COLOR_182: 267988568
+      Button And Other_DUAL COLOR_183: 1109325233
+      Button And Other_DUAL COLOR_184: 1926465870
+      Button And Other_DUAL COLOR_185: 1257610799
+      Button And Other_DUAL COLOR_186: -476798105
+      Button And Other_DUAL COLOR_187: 328623795
+      Button And Other_DUAL COLOR_188: 78110416
+      Button And Other_DUAL COLOR_189: -1380512239
+      Button And Other_DUAL COLOR_19: -870196531
+      Button And Other_DUAL COLOR_190: -167376645
+      Button And Other_DUAL COLOR_191: 928945069
+      Button And Other_DUAL COLOR_192: 118635724
+      Button And Other_DUAL COLOR_193: -483759286
+      Button And Other_DUAL COLOR_194: -475855739
+      Button And Other_DUAL COLOR_195: -238326885
+      Button And Other_DUAL COLOR_196: 1663049720
+      Button And Other_DUAL COLOR_197: 1597186310
+      Button And Other_DUAL COLOR_198: -431943766
+      Button And Other_DUAL COLOR_199: -1023439222
+      Button And Other_DUAL COLOR_2: 2081645123
+      Button And Other_DUAL COLOR_20: -1343105212
+      Button And Other_DUAL COLOR_200: -818849399
+      Button And Other_DUAL COLOR_201: -1941017033
+      Button And Other_DUAL COLOR_202: -574826189
+      Button And Other_DUAL COLOR_203: 352364172
+      Button And Other_DUAL COLOR_204: -1763921472
+      Button And Other_DUAL COLOR_205: -801606513
+      Button And Other_DUAL COLOR_206: -837971235
+      Button And Other_DUAL COLOR_207: -292620560
+      Button And Other_DUAL COLOR_208: -2112812232
+      Button And Other_DUAL COLOR_209: 641811889
+      Button And Other_DUAL COLOR_21: -431254100
+      Button And Other_DUAL COLOR_210: -497399522
+      Button And Other_DUAL COLOR_211: -36410135
+      Button And Other_DUAL COLOR_212: 1214926571
+      Button And Other_DUAL COLOR_213: -48670344
+      Button And Other_DUAL COLOR_214: -17970982
+      Button And Other_DUAL COLOR_215: 351527427
+      Button And Other_DUAL COLOR_216: 513197074
+      Button And Other_DUAL COLOR_217: 1503518576
+      Button And Other_DUAL COLOR_218: -130763373
+      Button And Other_DUAL COLOR_219: 742647043
+      Button And Other_DUAL COLOR_22: -959285111
+      Button And Other_DUAL COLOR_220: -1940164254
+      Button And Other_DUAL COLOR_221: -1064170921
+      Button And Other_DUAL COLOR_222: 98643983
+      Button And Other_DUAL COLOR_23: 1393056653
+      Button And Other_DUAL COLOR_24: 712902366
+      Button And Other_DUAL COLOR_25: -1742304233
+      Button And Other_DUAL COLOR_26: -1664308982
+      Button And Other_DUAL COLOR_27: -355484074
+      Button And Other_DUAL COLOR_28: 2073725919
+      Button And Other_DUAL COLOR_29: -912899162
+      Button And Other_DUAL COLOR_3: 1155691109
+      Button And Other_DUAL COLOR_30: 889538270
+      Button And Other_DUAL COLOR_31: -2046445525
+      Button And Other_DUAL COLOR_32: -928241449
+      Button And Other_DUAL COLOR_33: -1015874683
+      Button And Other_DUAL COLOR_34: -1101619733
+      Button And Other_DUAL COLOR_35: 398130433
+      Button And Other_DUAL COLOR_36: -239028551
+      Button And Other_DUAL COLOR_37: 1227613107
+      Button And Other_DUAL COLOR_38: -260175400
+      Button And Other_DUAL COLOR_39: -191878796
+      Button And Other_DUAL COLOR_4: 110085764
+      Button And Other_DUAL COLOR_40: -709820064
+      Button And Other_DUAL COLOR_41: 363654068
+      Button And Other_DUAL COLOR_42: -1431741717
+      Button And Other_DUAL COLOR_43: -1347138179
+      Button And Other_DUAL COLOR_44: -1221020832
+      Button And Other_DUAL COLOR_45: -937088526
+      Button And Other_DUAL COLOR_46: 172820729
+      Button And Other_DUAL COLOR_47: 204412673
+      Button And Other_DUAL COLOR_48: -383481507
+      Button And Other_DUAL COLOR_49: -765208025
+      Button And Other_DUAL COLOR_5: -62090851
+      Button And Other_DUAL COLOR_50: 951332800
+      Button And Other_DUAL COLOR_51: -1219231411
+      Button And Other_DUAL COLOR_52: 1715061491
+      Button And Other_DUAL COLOR_53: -1453804018
+      Button And Other_DUAL COLOR_54: 688390846
+      Button And Other_DUAL COLOR_55: 956617487
+      Button And Other_DUAL COLOR_56: 1876706294
+      Button And Other_DUAL COLOR_57: -988084966
+      Button And Other_DUAL COLOR_58: 1483148321
+      Button And Other_DUAL COLOR_59: 1654690529
+      Button And Other_DUAL COLOR_6: 1156198730
+      Button And Other_DUAL COLOR_60: 804328519
+      Button And Other_DUAL COLOR_61: 404334206
+      Button And Other_DUAL COLOR_62: -1417807330
+      Button And Other_DUAL COLOR_63: 2002872158
+      Button And Other_DUAL COLOR_64: -1411371627
+      Button And Other_DUAL COLOR_65: -1322447665
+      Button And Other_DUAL COLOR_66: -849841037
+      Button And Other_DUAL COLOR_67: 440368735
+      Button And Other_DUAL COLOR_68: -1419352325
+      Button And Other_DUAL COLOR_69: 2136233077
+      Button And Other_DUAL COLOR_7: 1690007230
+      Button And Other_DUAL COLOR_70: -1263053709
+      Button And Other_DUAL COLOR_71: 310384079
+      Button And Other_DUAL COLOR_72: 819699978
+      Button And Other_DUAL COLOR_73: -459503643
+      Button And Other_DUAL COLOR_74: 1530451208
+      Button And Other_DUAL COLOR_75: -95921291
+      Button And Other_DUAL COLOR_76: -2101037278
+      Button And Other_DUAL COLOR_77: -657649783
+      Button And Other_DUAL COLOR_78: 7668064
+      Button And Other_DUAL COLOR_79: 1978997282
+      Button And Other_DUAL COLOR_8: -1666479695
+      Button And Other_DUAL COLOR_80: 1606067715
+      Button And Other_DUAL COLOR_81: -1300774469
+      Button And Other_DUAL COLOR_82: 958492482
+      Button And Other_DUAL COLOR_83: -849343634
+      Button And Other_DUAL COLOR_84: 1162458266
+      Button And Other_DUAL COLOR_85: 1970219371
+      Button And Other_DUAL COLOR_86: -891380952
+      Button And Other_DUAL COLOR_87: 488045922
+      Button And Other_DUAL COLOR_88: -1311749078
+      Button And Other_DUAL COLOR_89: -454072004
+      Button And Other_DUAL COLOR_9: -96853956
+      Button And Other_DUAL COLOR_90: -1963609679
+      Button And Other_DUAL COLOR_91: -1009692488
+      Button And Other_DUAL COLOR_92: 391754433
+      Button And Other_DUAL COLOR_93: 35916594
+      Button And Other_DUAL COLOR_94: -44679224
+      Button And Other_DUAL COLOR_95: -1748520696
+      Button And Other_DUAL COLOR_96: -1206065730
+      Button And Other_DUAL COLOR_97: -2145154882
+      Button And Other_DUAL COLOR_98: 1388719920
+      Button And Other_DUAL COLOR_99: -1371333486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

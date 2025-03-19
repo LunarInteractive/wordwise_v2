@@ -1,0 +1,12 @@
+<Level>
+	<Dialog0>
+		<Character>Villager</Character>
+		<Question>D1</Question>
+		<OptionA Action="0">C2</OptionA>
+		<OptionB Action="0">C1</OptionB>
+	</Dialog0>
+	<Dialog1>
+		<Character>Villager</Character>
+		<Question>D2</Question>
+	</Dialog1>
+</Level>

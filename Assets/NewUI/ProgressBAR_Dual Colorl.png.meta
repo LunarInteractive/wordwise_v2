@@ -1,0 +1,1121 @@
+fileFormatVersion: 2
+guid: 49e7a13e0a145ca4e9a5d7754ea5a455
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1540
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975c4b3016189e747bc855c31f3ca28e
+      internalID: -2065262570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1540
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdf3824ca9ca147b6d92ed4071f6c2
+      internalID: 1930640753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_2
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1540
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466bad6eb2f1224db3dd782667c4f11
+      internalID: 1925761015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_3
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1540
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead219a17fc97474a856f0db29a9e92b
+      internalID: 499894377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1390
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e51786d3b01464f89892db72b72ff9
+      internalID: -138836463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1390
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8e3fc8a98f7a44b623147b697f63e
+      internalID: -1289266412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_6
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1390
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4106af51f66243934e92280e6d746
+      internalID: -1255613465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_7
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1390
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c7fdc3d82a194a8d0c7a287c18104
+      internalID: 661141052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1230
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c8ce6772cf3c4caf7f570d3fbfba3
+      internalID: 205961886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1230
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d8acce3f92284bb09168b3125e2d2
+      internalID: 1906680968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_10
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1230
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f41307a607afe4488a8068e34741ef
+      internalID: -675675238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_11
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1230
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f340cb01c06ef649960c05a79c5d2b6
+      internalID: 1007500681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1070
+        width: 960
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd92a5937873964f9a46bbaa067aca1
+      internalID: 1153819231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_13
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1070
+        width: 960
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa5dda5852bd5140a531c346b4d1142
+      internalID: 53953990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_14
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1070
+        width: 960
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa6befaa8de9134aa0ee59dd3a0366e
+      internalID: 1161024534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_15
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1070
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ebbeda33beb84a9ad3217e5599796
+      internalID: -719823971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 910
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144cc37f75756184ba6bbd08cf455973
+      internalID: 1143620185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 910
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c095b4fb443f4540a584bfa3f61321d
+      internalID: 1993739807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_18
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 910
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9755f69c0f97409f93b27986f5367
+      internalID: 1515443786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_19
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 910
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486b9f8887f2ea4db20c58ce04d0ff5
+      internalID: 1823873331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 750
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f1c36a499b09449a17623d96ceaf5
+      internalID: -1472589429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 750
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5871262922e41044990a40135137947
+      internalID: -164138691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_22
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 750
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ab2321478d5f47a0b0025305a4508
+      internalID: 965844648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_23
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 750
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce10371e4056da64d8de27af8cdaeabf
+      internalID: 21932889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 590
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a173cab0bddc841b051e6156206441
+      internalID: -346791174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 590
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047056d759e75d47ad387064aed182a
+      internalID: -870936596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_26
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 590
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128fff6e37346346918fb9b62a37524
+      internalID: -1756518832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_27
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 590
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80ec3c296f40a4d8bb32bbafa89f0e
+      internalID: -974844820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 430
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f5bbbcd69fb2439797c1a1853c806
+      internalID: -1922525001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 430
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50d6f85da38124597549f273376f63
+      internalID: -377141772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_30
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 430
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c5c3daf310544d8a363bcd91201ac
+      internalID: -506934421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_31
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 430
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ce872e6eb0c04c88dd03883e46788
+      internalID: -140878122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 270
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ffe22ba42dfc4a993593b6ccdf196
+      internalID: -390389920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 270
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d55e6658b99534c833f49b17a00d55
+      internalID: -663940246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_34
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 270
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f56fb1678bc64ca999bbbdfe110ee
+      internalID: 1849431269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_35
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 270
+        width: 960
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272189ec5938194487d19aab4e41fdf
+      internalID: 468978304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfece52bf940741b45beba417c3f00
+      internalID: -2120288959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 130
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00635fcb385bb5a4188b8e207520e44a
+      internalID: -2135230151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 130
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d872726152b77ec4ca2240b558219404
+      internalID: -1730073739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_39
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 130
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca0ac15b15dca0478e0bb6ab60a9dbf
+      internalID: 2096340283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698ac1261f66c84b83258c587d13ad7
+      internalID: 1320254509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_41
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 10
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd2dedaa3331574ea5ff2fa1298b9e2
+      internalID: -812272638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_42
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 10
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4ac4081d649640b01e98fec8b16a7
+      internalID: -435547365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBAR_Dual Colorl_43
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 10
+        width: 940
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e14b2e57afa144794a28aed718c8bd
+      internalID: 720070324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e04fb785e6f6d7f45b8abf5500a3ee49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ProgressBAR_Dual Colorl_0: -2065262570
+      ProgressBAR_Dual Colorl_1: 1930640753
+      ProgressBAR_Dual Colorl_10: -675675238
+      ProgressBAR_Dual Colorl_11: 1007500681
+      ProgressBAR_Dual Colorl_12: 1153819231
+      ProgressBAR_Dual Colorl_13: 53953990
+      ProgressBAR_Dual Colorl_14: 1161024534
+      ProgressBAR_Dual Colorl_15: -719823971
+      ProgressBAR_Dual Colorl_16: 1143620185
+      ProgressBAR_Dual Colorl_17: 1993739807
+      ProgressBAR_Dual Colorl_18: 1515443786
+      ProgressBAR_Dual Colorl_19: 1823873331
+      ProgressBAR_Dual Colorl_2: 1925761015
+      ProgressBAR_Dual Colorl_20: -1472589429
+      ProgressBAR_Dual Colorl_21: -164138691
+      ProgressBAR_Dual Colorl_22: 965844648
+      ProgressBAR_Dual Colorl_23: 21932889
+      ProgressBAR_Dual Colorl_24: -346791174
+      ProgressBAR_Dual Colorl_25: -870936596
+      ProgressBAR_Dual Colorl_26: -1756518832
+      ProgressBAR_Dual Colorl_27: -974844820
+      ProgressBAR_Dual Colorl_28: -1922525001
+      ProgressBAR_Dual Colorl_29: -377141772
+      ProgressBAR_Dual Colorl_3: 499894377
+      ProgressBAR_Dual Colorl_30: -506934421
+      ProgressBAR_Dual Colorl_31: -140878122
+      ProgressBAR_Dual Colorl_32: -390389920
+      ProgressBAR_Dual Colorl_33: -663940246
+      ProgressBAR_Dual Colorl_34: 1849431269
+      ProgressBAR_Dual Colorl_35: 468978304
+      ProgressBAR_Dual Colorl_36: -2120288959
+      ProgressBAR_Dual Colorl_37: -2135230151
+      ProgressBAR_Dual Colorl_38: -1730073739
+      ProgressBAR_Dual Colorl_39: 2096340283
+      ProgressBAR_Dual Colorl_4: -138836463
+      ProgressBAR_Dual Colorl_40: 1320254509
+      ProgressBAR_Dual Colorl_41: -812272638
+      ProgressBAR_Dual Colorl_42: -435547365
+      ProgressBAR_Dual Colorl_43: 720070324
+      ProgressBAR_Dual Colorl_5: -1289266412
+      ProgressBAR_Dual Colorl_6: -1255613465
+      ProgressBAR_Dual Colorl_7: 661141052
+      ProgressBAR_Dual Colorl_8: 205961886
+      ProgressBAR_Dual Colorl_9: 1906680968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

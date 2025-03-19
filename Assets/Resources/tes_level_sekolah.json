@@ -1,0 +1,51 @@
+[
+		{
+		"id": 1,
+		"kode_sekolah": "sekolah1",
+		"chapter": "1",
+		"level": "1",
+		"dialogue_data": "Villager: rawr\n- rawr banget guys\n- iya lagi"
+	},
+	{
+		"id": 2,
+		"kode_sekolah": "sekolah1",
+		"chapter": "1",
+		"level": "2",
+		"dialogue_data": "Villager: hello\n- hello guys\n- how are you?"
+	},
+	{
+		"id": 3,
+		"kode_sekolah": "sekolah1",
+		"chapter": "1",
+		"level": "3",
+		"dialogue_data": "Guard: stop\n- stop it, man\n- okay, okay"
+	},
+	{
+		"id": 4,
+		"kode_sekolah": "sekolah1",
+		"chapter": "2",
+		"level": "1",
+		"dialogue_data": "Guard: stop\n- stop it, man\n- okay, okay"
+	},
+	{
+		"id": 5,
+		"kode_sekolah": "sekolah1",
+		"chapter": "2",
+		"level": "2",
+		"dialogue_data": "Guard: stop\n- stop it, man\n- okay, okay"
+	},
+	{
+		"id": 6,
+		"kode_sekolah": "sekolah1",
+		"chapter": "3",
+		"level": "1",
+		"dialogue_data": "Guard: stop\n- stop it, man\n- okay, okay"
+	},
+	{
+		"id": 7,
+		"kode_sekolah": "sekolah1",
+		"chapter": "1",
+		"level": "4",
+		"dialogue_data": "Villager: stop\n- stop it, man\n- okay, okay"
+	}
+]
